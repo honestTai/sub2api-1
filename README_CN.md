@@ -4,6 +4,9 @@
 
 # Sub2API
 
+> ⚡ **AI 编程算力支持 — [HRouter](https://hrouter.net/)**：一把 API Key 按量直连 **Claude、OpenAI Codex / GPT、Google Gemini、DeepSeek**（零月费订阅），一键接入 [Claude Code](https://hrouter.net/docs/claude-code/) · [Codex CLI](https://hrouter.net/docs/codex/) · [Gemini CLI](https://hrouter.net/docs/gemini-cli/) · [DeepSeek](https://hrouter.net/docs/deepseek/) · [实时模型价格](https://hrouter.net/models/)
+
+
 [![Go](https://img.shields.io/badge/Go-1.27.0-00ADD8.svg)](https://golang.org/)
 [![Vue](https://img.shields.io/badge/Vue-3.4+-4FC08D.svg)](https://vuejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-336791.svg)](https://www.postgresql.org/)
